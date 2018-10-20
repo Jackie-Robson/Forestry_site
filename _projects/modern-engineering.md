@@ -1,23 +1,24 @@
 ---
-title: Modern Engineering Textbook
+title: Bankrate UK
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+banner_image: "/uploaded/2018/10/19/bankrateuk.png"
+sub_heading: Bringing four decades of  financial publishing experience to the UK
 tags:
-- engineering
-- research
-slug: ''
+- Front End Developer
+- Static site
+- International SEO
+slug: Bankrate-uk
+
 ---
+# Bankrate UK
 
-## Overview
+After joining Red Ventures London as their only Front end developer the first project I was part of was bringing one of the Red Ventures brands to the UK. 
 
-Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+## What it involved
 
-## Editions
+The project involved migrating the existing Bankrate UK articles from the existing platform maintained by our overseas counterpart and running the content through a static site generator which would then be pushed through to an S3 bucket.
 
-* Edition One - 2016
-
-* Edition Two - 2017
+The content was stored in a Wordpress instance and passed through to our static site generator 
