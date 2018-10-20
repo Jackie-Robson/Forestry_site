@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploaded/2018/10/20/desktop.jpg"
 heading: About Jackie
 sub_heading: 'Get to know me '
 layout: landing-page
