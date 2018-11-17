@@ -13,17 +13,18 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Jackie Robson
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Front end developer
 - type: file
   name: banner_image
   label: Hero Image
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploaded/2018/10/20/VwEl8Hj.jpg"
 - type: field_group
   name: hero_button
   label: Hero Button
@@ -42,6 +43,9 @@ fields:
     required: true
     schema:
       format: markdown
+  default: I'm a Front end web developer working for Red | Ventures, I've done a little
+    bit of everything, from mechanics to hairdressing. If I'm not building or learning
+    I'm out and about on my skateboard.
 - name: services
   label: Services
   type: field_group_list
